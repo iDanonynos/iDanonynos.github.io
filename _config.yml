@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Daniel and I'm a Student. As well as a student I also have experience making software and web apps.
 
-  I am most skilled in: <mark>Javascript</mark>, <mark>Java</mark>, <mark>Rust</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Javascript</mark> <mark>Java</mark> <mark>Rust</mark> and <mark>Eating Pizza</mark>
 
 content:
  # - title: Projects # Title for the section
@@ -96,7 +96,7 @@ content:
         quote: >
           Established in 1792, UdG is the oldest higher education institution in México, and is widely regarded in terms of its influence, reputation, and academic pedigree as the 4th leading university in México.
         description: | # this will include new lines to allow paragraphs
-          During my time at UdG I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at UdG I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a work life balance.
 
 
   - title: A Little More About Me
@@ -104,8 +104,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Gaming
-      - Watching Anime
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Anime
+      - Music
+   #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
    #   Look at this cool image  
    #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
