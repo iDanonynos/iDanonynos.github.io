@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Daniel and I'm a Student. As well as a student I also have experience making software and web apps.
 
-  I am most skilled in: <mark>Javascript</mark> <mark>Java</mark> <mark>Rust</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Javascript</mark> <mark>Java</mark> <mark>Rust</mark> and <mark>SQL</mark>
 
 content:
  # - title: Projects # Title for the section
